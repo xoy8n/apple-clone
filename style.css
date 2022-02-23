@@ -174,10 +174,10 @@ header {
     background: url("images/hero/iphone-11-pro/iphone_11_pro_medium.jpg");
   }
   .iphone-11 {
-    background: url("/images/hero/iphone-11/iphone_11_medium.jpg");
+    background: url("images/hero/iphone-11/iphone_11_medium.jpg");
   }
   .watch {
-    background: url("/images/hero/watch/watch_medium.jpg");
+    background: url("images/hero/watch/watch_medium.jpg");
   }
   .hero {
     height: 65rem;
@@ -345,10 +345,10 @@ header {
       background: url("images/hero/iphone-11-pro/iphone_11_pro_small.jpg");
     }
     .iphone-11 {
-      background: url("/images/hero/iphone-11/iphone_11_small.jpg");
+      background: url("images/hero/iphone-11/iphone_11_small.jpg");
     }
     .watch {
-      background: url("/images/hero/watch/watch_small.jpg");
+      background: url("images/hero/watch/watch_small.jpg");
     }
     .hero {
       height: 50rem;
