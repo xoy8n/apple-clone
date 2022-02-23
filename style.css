@@ -198,7 +198,7 @@ header {
   }
   .title-heading-watch {
     height: 6.2rem;
-    background: url("/images/hero/watch/logo_watch_medium.png") center no-repeat;
+    background: url("images/hero/watch/logo_watch_medium.png") center no-repeat;
     background-size: auto 6.2rem;
   }
 }
